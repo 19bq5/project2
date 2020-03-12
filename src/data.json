@@ -1,0 +1,103 @@
+{
+    "profiles":[
+        {
+          "basics":{
+              "name":"k Surekha",
+              "email":"himabindhu9490@gmail.com",
+              "mobile": "+91 1234567890" 
+
+          },
+          "education":[
+              {
+                  "degree":"S.S.C",
+                  "percentage":"90%",
+                  "institute":"Sri Sadineni Chowdariah public school"
+              },
+              { 
+                  "degree":"Diploma-(CSE)",
+                "percentage":"85%",
+                "institute":"CR polytechnic"
+
+              },
+              {
+                  
+                "degree":"B.tech-(CSE)",
+                "percentage":"80%",
+                "institute":"VVIT"
+
+              }
+          ],
+          "skills":[
+            {
+              "type":"programming languages",
+              "values":["c","c++","java","python","ADA"]
+            },
+            {
+              "type":"Web technologies",
+              "values":["HTML","CSS","javaScript"]
+            },
+            {
+                "type":"FrameWorks & libraries",
+                "values":["ReactJs"]
+              },
+
+            {
+                "type":"Operating System",
+                "values":["windows","linux"]
+              }
+            ]
+          
+        
+        },
+        {
+           "basics":{
+               "name":"K.Lahari Priya",
+               "email":"laharikrosuri@gmail.com",
+               "mobile":" +91 7843689988"
+           },
+          "education":[
+              {
+                  "degree":"S.S.C",
+                  "percentage":"90%",
+                  "institute":"ssc public school"
+              },
+              { 
+                  "degree":"Inter-(MPC)",
+                "percentage":"85%",
+                "institute":"Bhashyam junior college"
+
+              },
+              {
+                  
+                "degree":"B.tech-(CSE)",
+                "percentage":"80%",
+                "institute":"VVIT"
+
+              }
+          ],
+
+        "skills":[
+                {
+                  "type":"programming languages",
+                  "values":["c","c++","java","python","ADA"]
+                },
+                {
+                  "type":"Web technologies",
+                  "values":["HTML","CSS","javaScript"]
+                },
+                {
+                    "type":"FrameWorks & libraries",
+                    "values":["ReactJs"]
+                  },
+    
+                {
+                    "type":"Operating System",
+                    "values":["windows","linux"]
+                  }
+          ]
+        }
+      ]
+    }
+    
+
+        
